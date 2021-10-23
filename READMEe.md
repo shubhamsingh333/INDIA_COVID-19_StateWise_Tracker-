@@ -10,7 +10,6 @@ You will also see any lint errors in the console.
 API URL - https://data.covid19india.org/data.json
 
 
-change krna hain
 
 
 
